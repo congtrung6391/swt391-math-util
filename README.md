@@ -9,7 +9,7 @@
 * ...
 
 ### Screen shot
-![JUnit with TDD](https://github.com/doit-now/math-util-1501/blob/main/images/math-util-intro.png)
+![JUnit with TDD](https://github.com/congtrung6391/swt391-math-util/blob/main/images/math-util-intro.png)
 
 #### © 2021 austin.trung
 
