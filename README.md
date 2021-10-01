@@ -1,4 +1,4 @@
-[![Math-Util with CI | © 2021 by austin.trung](https://github.com/congtrung6391/swt391-math-util/actions/workflows/math-util-ci.yml/badge.svg)](https://github.com/congtrung6391/swt391-math-util/actions/workflows/math-util-ci.yml)
+[![Math-Util with CI | © 2021 by austin.trung](https://github.com/congtrung6391/swt391-math-util/actions/workflows/math-util-ci.yml/badge.svg?branch=main)](https://github.com/congtrung6391/swt391-math-util/actions/workflows/math-util-ci.yml)
 
 # Welcome to Math-Util Repository
 
