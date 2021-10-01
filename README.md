@@ -1,4 +1,4 @@
-[![Math-Util with CI | © 2021 by giao.lang](https://github.com/doit-now/math-util-1501/actions/workflows/math-util-ci.yml/badge.svg)](https://github.com/doit-now/math-util-1501/actions/workflows/math-util-ci.yml)
+[![Math-Util with CI | © 2021 by austin.trung](https://github.com/congtrung6391/swt391-math-util/actions/workflows/math-util-ci.yml/badge.svg)](https://github.com/congtrung6391/swt391-math-util/actions/workflows/math-util-ci.yml)
 
 # Welcome to Math-Util Repository
 
@@ -11,5 +11,5 @@
 ### Screen shot
 ![JUnit with TDD](https://github.com/doit-now/math-util-1501/blob/main/images/math-util-intro.png)
 
-#### © 2021 giáo.làng | fb/giao.lang.bis
+#### © 2021 austin.trung
 
